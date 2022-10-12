@@ -1,7 +1,7 @@
-<h1 align="center">❤️ 🅆🄰🅁🅄🅂🄴🅁🄱🄾🅃 ❤️</h1>
+<h1 align="center">ᴅᴀʀᴋ ᴍᴏᴏɴ ᴜꜱᴇʀʙᴏᴛ</h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/4b0a3d49d8bf1e2e85fea.png">
+  <img src="https://telegra.ph/file/e9a84eed3b950f338a833.jpg">
 </p>
 
   <h2 align= "center" >The owner would not be responsible for any kind of bans due to the bot.</h2>
@@ -34,7 +34,7 @@
 
 ### Official Supports
 
-   <a href="https://t.me/@darkmoonuserbot"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+   <a href="https://t.me/darkmoonuserbot"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
  
 
 ## credits ❤️
